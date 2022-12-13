@@ -1,6 +1,8 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/allwin-lucious-69598a117/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
+
+
 ![](https://komarev.com/ghpvc/?username=allwinlucious)
 <!--
 **allwinlucious/allwinlucious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
